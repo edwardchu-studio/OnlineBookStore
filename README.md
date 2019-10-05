@@ -26,5 +26,5 @@
 
 ### Contact
 
-> Copyright ©️ 2017, All rights reserved by **Group03**. <br>
+> Copyright ©️ 2018, All rights reserved by Veronica Tjan. <br>
 > email: [3150300217@zju.edu.cn](mailto:3150300217@zju.edu.cn) 
