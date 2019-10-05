@@ -11,7 +11,7 @@
 <br>
 
 ### 项目结构
-参考[文档设计](https://github.com/Design.pdf)
+参考[文档设计](https://github.com/SynneFree/OnlineBookStore/blob/master/Design.pdf)
 
 ##运行环境
 - 操作系统	: MacOS Mojave
