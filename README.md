@@ -13,7 +13,7 @@
 ### 项目结构
 参考[文档设计](https://github.com/SynneFree/OnlineBookStore/blob/master/Design.pdf)
 
-##运行环境
+### 运行环境
 - 操作系统	: MacOS Mojave
 - Python版本 : Python3.7
 - 前端开发框架 : Flask框架
