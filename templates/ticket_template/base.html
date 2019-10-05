@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body>
+		<hr>
+	<!-- 	{% for message in get_flashed_messages() %}#在请求中每次调用flash()都会返回一个消息，他们会排队等待显示
+		{{ message }}
+		{% endfor %} -->
+		{% with messages = get_flashed_messages() %}
+		{% if messages %}
+		<ul>
+			{% for message in messages %}
+			<li>{{ message }}</li>
+			{% endfor %}
+		</ul>
+		{% endif %}
+		{% endwith %}
+		{% block content %}
+		<!-- {% endblock %} -->
+	</body>
+</html>
