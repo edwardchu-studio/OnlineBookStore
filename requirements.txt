@@ -22,7 +22,7 @@ polyaxon-client==0.4.4
 polyaxon-deploy==0.4.4
 polyaxon-schemas==0.4.4
 polystores==0.1.7
-psutil==5.4.7
+psutil==5.6.6
 PyMySQL==0.9.3
 python-dateutil==2.8.0
 python-engineio==3.8.2
