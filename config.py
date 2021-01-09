@@ -1,4 +1,4 @@
-from flaskext.mysql import MySQL
+from mysql import MySQL
 from __init__ import app
 
 
